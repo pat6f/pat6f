@@ -1,6 +1,16 @@
-<h1>Keep It Simple</h1>
-<h2>"Nine people can't make a baby in just a month" <sup>HealMyHeart</sup></h2>
-<p align="right">I'm currently learning about C language</p>
+### Connect with me:
 
+[<img align="left" alt="Heal | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
-<img src="https://media1.tenor.com/images/aa1d39040c92e6bf6d4cd3f80892bc0e/tenor.gif" width="400"/>
+<br />
+
+### 🔨Languages and Tools:
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="c" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+<br />
+

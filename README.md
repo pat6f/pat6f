@@ -21,7 +21,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Diogo GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=iacta&count_private=true&show_icons=true&theme=dracula" />
+  <img align="left" alt="Diogo GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pat6f&count_private=true&show_icons=true&theme=dracula" />
   
   <details>
   <summary>:zap: Most Used Languages</summary>
